@@ -1,0 +1,4 @@
+﻿  Zad1.cpp
+C:\Users\s30402\Desktop\Temp\PPRG_4_CW\Zad1\Zad1.cpp(9,9): warning C4101: 'a': unreferenced local variable
+C:\Users\s30402\Desktop\Temp\PPRG_4_CW\Zad1\Zad1.cpp(9,11): warning C4101: 'A': unreferenced local variable
+  Zad1.vcxproj -> C:\Users\s30402\Desktop\Temp\PPRG_4_CW\Zad1\x64\Debug\Zad1.exe
